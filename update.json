@@ -1,8 +1,8 @@
 {
-    "versionCode":  24,
-    "versionName":  "3.3",
+    "versionCode":  25,
+    "versionName":  "3.4",
     "apk":  "bella.apk",
-    "sha256":  "1d50ec5e9fc248a809b40361d6fca2f5fb784cd0552280156baba5149e316999",
-    "notas":  "teste 2 do atualizador",
-    "publicado":  "2026-11-10 13:34"
+    "sha256":  "90289713b4914a734b33bd6b1fc2a484689948492eb778b40c081923318735f7",
+    "notas":  "Aviso com Wi-Fi, cidade aproximada e estado da TV",
+    "publicado":  "2026-11-10 13:47"
 }
