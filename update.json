@@ -1,8 +1,8 @@
 {
-    "versionCode":  26,
-    "versionName":  "3.5",
+    "versionCode":  28,
+    "versionName":  "3.7",
     "apk":  "bella.apk",
-    "sha256":  "5bd60dce26be81f02948fdd5df4d81f46fb6980938e67d994554d432daccf2b6",
+    "sha256":  "99c9879c760608325fe495c00af0714687b5ac50eaa6b49e1385e8fdc6cd92ca",
     "notas":  "Teclado na tela de volta + aviso com Wi-Fi, cidade e estado da TV",
-    "publicado":  "2026-11-10 13:53"
+    "publicado":  "2026-11-10 14:00"
 }
