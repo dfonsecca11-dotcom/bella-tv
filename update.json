@@ -1,8 +1,8 @@
 {
-    "versionCode":  28,
-    "versionName":  "3.7",
+    "versionCode":  29,
+    "versionName":  "3.8",
     "apk":  "bella.apk",
-    "sha256":  "99c9879c760608325fe495c00af0714687b5ac50eaa6b49e1385e8fdc6cd92ca",
-    "notas":  "Teclado na tela de volta + aviso com Wi-Fi, cidade e estado da TV",
-    "publicado":  "2026-11-10 14:00"
+    "sha256":  "ec904921bd542d161bc0e9d1a015ed0236d94e95c1e852f2c5da6fdfa8809f8b",
+    "notas":  "Continuar assistindo com no maximo 2",
+    "publicado":  "2026-11-10 14:11"
 }
