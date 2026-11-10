@@ -1,8 +1,8 @@
 {
-    "versionCode":  32,
-    "versionName":  "4.1",
+    "versionCode":  33,
+    "versionName":  "4.2",
     "apk":  "bella.apk",
-    "sha256":  "283bff4e77e329ed92cd59adced00d7df676db30c0cf95053873541add4c4523",
-    "notas":  "Temas com disposicao dos apps: Classica, Apps primeiro, Compacta",
-    "publicado":  "2026-11-10 15:08"
+    "sha256":  "836d8232f048d1cc071f5d068e501b51d16b301a8eeee4009777a3d6d27402ea",
+    "notas":  "Ajustes com o mesmo fundo da tela inicial",
+    "publicado":  "2026-11-10 15:10"
 }
