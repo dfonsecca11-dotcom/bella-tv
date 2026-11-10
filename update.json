@@ -1,8 +1,8 @@
 {
-    "versionCode":  33,
-    "versionName":  "4.2",
+    "versionCode":  35,
+    "versionName":  "4.4",
     "apk":  "bella.apk",
-    "sha256":  "836d8232f048d1cc071f5d068e501b51d16b301a8eeee4009777a3d6d27402ea",
-    "notas":  "Ajustes com o mesmo fundo da tela inicial",
-    "publicado":  "2026-11-10 15:10"
+    "sha256":  "82df19717dd83e760bc0f42608241c2875ace1bdbf44845cc696c4a299537712",
+    "notas":  "Disposicoes Cinema, Barra e Lateral; volta para Classica uma vez",
+    "publicado":  "2026-11-10 17:12"
 }
