@@ -1,8 +1,8 @@
 {
-    "versionCode":  42,
-    "versionName":  "5.1",
+    "versionCode":  43,
+    "versionName":  "5.2",
     "apk":  "bella.apk",
-    "sha256":  "0d76d927a739869a0bea8d3221857f821fc346b2a92b2b25ab374986536fef84",
-    "notas":  "5.1 - menu Temas com miniatura FOTO REAL de cada cor e disposicao",
-    "publicado":  "2026-11-11 00:12"
+    "sha256":  "88cb39a8ddf787f0fb9bc58b84563c86b516ececbd7d1002286b415a9aa2e134",
+    "notas":  "5.2 - fundo Sem imagem (1a opcao), tira Estilo da Bella, remove Cinema das disposicoes, padrao Disney",
+    "publicado":  "2026-11-11 00:26"
 }
