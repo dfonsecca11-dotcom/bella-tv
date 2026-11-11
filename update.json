@@ -1,8 +1,8 @@
 {
-    "versionCode":  36,
-    "versionName":  "4.5",
+    "versionCode":  37,
+    "versionName":  "4.6",
     "apk":  "bella.apk",
-    "sha256":  "9adc8a36de80c35b3e38d8b1f71b2e87c98f54afd2ed898a3ab2dd5420098210",
-    "notas":  "4.5 - disposicao Barra corrigida (relogio inteiro, sem cartao duplicado)",
-    "publicado":  "2026-11-10 23:12"
+    "sha256":  "a0345b35fd2bc2da0e0d6c4e72ac46be9cdac14081fddc6b87a13e09df34e9e3",
+    "notas":  "4.6 - Barra: botao Continuar visivel + rodape ajustado",
+    "publicado":  "2026-11-10 23:18"
 }
