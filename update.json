@@ -1,8 +1,8 @@
 {
-    "versionCode":  35,
-    "versionName":  "4.4",
+    "versionCode":  36,
+    "versionName":  "4.5",
     "apk":  "bella.apk",
-    "sha256":  "82df19717dd83e760bc0f42608241c2875ace1bdbf44845cc696c4a299537712",
-    "notas":  "Disposicoes Cinema, Barra e Lateral; volta para Classica uma vez",
-    "publicado":  "2026-11-10 17:12"
+    "sha256":  "9adc8a36de80c35b3e38d8b1f71b2e87c98f54afd2ed898a3ab2dd5420098210",
+    "notas":  "4.5 - disposicao Barra corrigida (relogio inteiro, sem cartao duplicado)",
+    "publicado":  "2026-11-10 23:12"
 }
