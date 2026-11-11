@@ -1,8 +1,8 @@
 {
-    "versionCode":  38,
-    "versionName":  "4.7",
+    "versionCode":  39,
+    "versionName":  "4.8",
     "apk":  "bella.apk",
-    "sha256":  "7bd9ae9cb63cf5e18566756a67e0fee4eee5604f0ad4e7de4dc95bc1b6f753cb",
-    "notas":  "4.7 - fundo da Barra alternando desenhos da Disney (TMDB)",
-    "publicado":  "2026-11-10 23:28"
+    "sha256":  "8dd5315bf00336cf005e5555d4b8fd3838766252e383b566eef457e57ea1a7a8",
+    "notas":  "4.8 - fundo da Barra: desenhos da Disney (opcao de estilo da Bella guardada)",
+    "publicado":  "2026-11-10 23:33"
 }
