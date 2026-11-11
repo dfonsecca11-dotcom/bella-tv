@@ -1,8 +1,8 @@
 {
-    "versionCode":  39,
-    "versionName":  "4.8",
+    "versionCode":  40,
+    "versionName":  "4.9",
     "apk":  "bella.apk",
-    "sha256":  "8dd5315bf00336cf005e5555d4b8fd3838766252e383b566eef457e57ea1a7a8",
-    "notas":  "4.8 - fundo da Barra: desenhos da Disney (opcao de estilo da Bella guardada)",
-    "publicado":  "2026-11-10 23:33"
+    "sha256":  "3acdf90dd9d899739a832df91dee0e8bab5846241bdf2617a63b10f4561485db",
+    "notas":  "4.9 - menu Temas com miniaturas reais (cor + distribuicao) + fundo Barra Disney",
+    "publicado":  "2026-11-10 23:48"
 }
