@@ -1,8 +1,8 @@
 {
-    "versionCode":  37,
-    "versionName":  "4.6",
+    "versionCode":  38,
+    "versionName":  "4.7",
     "apk":  "bella.apk",
-    "sha256":  "a0345b35fd2bc2da0e0d6c4e72ac46be9cdac14081fddc6b87a13e09df34e9e3",
-    "notas":  "4.6 - Barra: botao Continuar visivel + rodape ajustado",
-    "publicado":  "2026-11-10 23:18"
+    "sha256":  "7bd9ae9cb63cf5e18566756a67e0fee4eee5604f0ad4e7de4dc95bc1b6f753cb",
+    "notas":  "4.7 - fundo da Barra alternando desenhos da Disney (TMDB)",
+    "publicado":  "2026-11-10 23:28"
 }
